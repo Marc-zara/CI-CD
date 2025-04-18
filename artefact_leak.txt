@@ -1,0 +1,1 @@
+Exfiltration: SECRET_API_KEY=leaked_value
